@@ -1,3 +1,4 @@
+
 var exec = require('cordova/exec');
 
 var getAppVersion = function (success, fail) {
